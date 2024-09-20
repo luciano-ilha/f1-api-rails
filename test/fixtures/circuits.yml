@@ -1,0 +1,31 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  image: MyString
+  location: MyString
+  first_grand_prix: 1
+  laps: 1
+  length: MyString
+  race_distance: MyString
+  lap_record_time: MyString
+  string: MyString
+  lap_record_driver_name: MyString
+  lap_record_year: MyString
+  capacity: 1
+  opened: 1
+
+two:
+  name: MyString
+  image: MyString
+  location: MyString
+  first_grand_prix: 1
+  laps: 1
+  length: MyString
+  race_distance: MyString
+  lap_record_time: MyString
+  string: MyString
+  lap_record_driver_name: MyString
+  lap_record_year: MyString
+  capacity: 1
+  opened: 1

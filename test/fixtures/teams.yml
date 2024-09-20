@@ -1,0 +1,31 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  city: MyString
+  first_team_entry: 1
+  world_championships: 1
+  pole_positions: 1
+  fastest_laps: 1
+  president: MyString
+  director: MyString
+  chassis: MyString
+  engine: MyString
+  logo: MyString
+  technical_manager: MyString
+  tyres: MyString
+
+two:
+  name: MyString
+  city: MyString
+  first_team_entry: 1
+  world_championships: 1
+  pole_positions: 1
+  fastest_laps: 1
+  president: MyString
+  director: MyString
+  chassis: MyString
+  engine: MyString
+  logo: MyString
+  technical_manager: MyString
+  tyres: MyString
