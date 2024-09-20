@@ -17,7 +17,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="./public/f1-tv-logo.svg" alt="Screenshot">
+    <img src="./public/f1-logo.png" alt="Screenshot">
   </a>
 
   <h1 align="center">F1 Rails Api</h1>
