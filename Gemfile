@@ -11,6 +11,7 @@ gem "jbuilder"
 gem "tzinfo-data", platforms: %i[ windows jruby ]
 gem "bootsnap", require: false
 gem "active_model_serializers", "~> 0.10.14"
+gem "bcrypt", "~> 3.1", ">= 3.1.20"
 
 group :development, :test do
   gem "debug", platforms: %i[ mri windows ], require: "debug/prelude"
