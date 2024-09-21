@@ -17,6 +17,7 @@ group :development, :test do
   gem "brakeman", require: false
   gem "rubocop-rails-omakase", require: false
   gem "byebug", "~> 11.1", ">= 11.1.3"
+  gem "rack-cors", require: "rack/cors"
 end
 
 group :development do
